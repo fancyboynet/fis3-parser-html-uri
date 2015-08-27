@@ -1,0 +1,24 @@
+{
+  "name": "fis3-parser-html-uri",
+  "version": "1.0.0",
+  "description": "Make the html file has a function named '__uri' like what used in the js file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fancyboynet/fis3-parser-html-uri.git"
+  },
+  "keywords": [
+    "fis3",
+    "plugin",
+    "html"
+  ],
+  "author": "Fancy <fancyboynet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fancyboynet/fis3-parser-html-uri/issues"
+  },
+  "homepage": "https://github.com/fancyboynet/fis3-parser-html-uri"
+}
