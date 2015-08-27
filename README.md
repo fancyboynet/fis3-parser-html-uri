@@ -16,6 +16,10 @@ fis.match('*.html', {
 });
 ```
 
+```html
+<img src="__uri(images/logo.gif)" alt="logo"/>
+```
+
 ## 自定义函数名
 
 ```js
@@ -24,4 +28,8 @@ fis.match('*.html', {
     name : '__my_uri'
   })
 });
+```
+
+```html
+<img src="__my_uri(images/logo.gif)" alt="logo"/>
 ```
