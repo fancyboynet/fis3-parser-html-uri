@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-$ npm install [-g] fis3-parser-html-uri
+$ npm install fis3-parser-html-uri
 ```
 
 ## 基本使用

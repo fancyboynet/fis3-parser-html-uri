@@ -1,6 +1,6 @@
 {
   "name": "fis3-parser-html-uri",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make the html file has a function named '__uri' like what used in the js file",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "url": "https://github.com/fancyboynet/fis3-parser-html-uri.git"
   },
   "keywords": [
+    "fis",
     "fis3",
     "plugin",
     "html"
